@@ -1,0 +1,37 @@
+{
+ "label": "test",
+ "songs": 7,
+ "secs": "23",
+ "restRatio": {
+  "mean": 0.064,
+  "p10": 0.021,
+  "p90": 0.103,
+  "inTarget10to30": 0.14
+ },
+ "syncopation": {
+  "mean": 0.2,
+  "sd": 0.16,
+  "p10": 0,
+  "p90": 0.42
+ },
+ "ioiEntropyBits": {
+  "mean": 2.16,
+  "sd": 0.39
+ },
+ "phraseLengths": {
+  "distinctAcrossAll": 5,
+  "avgDistinctPerSong": 1.71,
+  "dist": {
+   "2": 1,
+   "4": 2,
+   "8": 11,
+   "16": 2,
+   "24": 1
+  }
+ },
+ "ngramReuse50": {
+  "intervals": 0,
+  "rhythms": 0,
+  "top10IntervalShare": 0.087
+ }
+}

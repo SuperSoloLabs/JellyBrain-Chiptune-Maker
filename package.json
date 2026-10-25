@@ -1,0 +1,16 @@
+{
+  "name": "jelly-brain",
+  "version": "0.7.3",
+  "description": "Jelly Brain - an SNES-true music maker (SuperSoloLabs)",
+  "scripts": {
+    "start": "electron jellybrain_app",
+    "studio": "electron app"
+  },
+  "keywords": [],
+  "author": "SuperSoloLabs",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "^33.4.11"
+  }
+}
